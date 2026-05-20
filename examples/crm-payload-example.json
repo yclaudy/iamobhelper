@@ -1,0 +1,12 @@
+{
+  "lead_id": "123456",
+  "crm": "CV CRM",
+  "pipeline": "Sales",
+  "stage": "Qualified",
+  "assigned_to": "Commercial Team",
+  "tags": [
+    "whatsapp-ai",
+    "qualified"
+  ],
+  "source": "Meta Ads"
+}
