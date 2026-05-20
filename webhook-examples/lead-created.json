@@ -1,0 +1,12 @@
+{
+  "event": "lead.created",
+  "timestamp": "2026-05-20T10:00:00Z",
+  "source": "Meta Ads",
+  "lead": {
+    "name": "John Doe",
+    "phone": "+551199999999",
+    "email": "john@example.com",
+    "interest": "Residential Property",
+    "status": "qualified"
+  }
+}
